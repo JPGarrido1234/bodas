@@ -1,0 +1,152 @@
+/*** 
+#c1a555 
+***/
+
+#sidebar-logo {
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  padding: 12px 25px;
+  opacity: 0.8;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+#sidebar-logo:hover {
+  opacity: 1;
+}
+
+.modal.fade .modal-content {
+    position: relative;
+    animation: animatebottom 0.4s;
+  }
+  
+@keyframes animatebottom {
+    from {
+      bottom: -300px;
+      opacity: 0;
+    }
+  
+    to {
+      bottom: 0;
+      opacity: 1;
+    }
+}
+
+.form-label {
+    margin-top: 1.5rem;
+}
+
+.card .card-header {
+    padding-bottom: 0;
+}
+
+#chat .toast {
+    width: 85%;
+    margin-bottom: 25px;
+}
+
+#chat .toast-footer {
+    text-align: right;
+    color: rgb(160, 160, 160);
+    font-size: 11px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+#chat a {
+    color: rgb(160, 160, 160);
+}
+
+#chat .toast.from {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+#chat .toast.to {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#chat .toast-header {
+    background: transparent !important;
+}
+
+#chat .toast-header img {
+    max-width: 40px;
+}
+
+.hide {
+    display: none !important;
+}
+
+.select2-search__field {
+    width: 100% !important;
+}
+
+/*
+ *  STYLE 3
+ */
+
+ .scroll-3::-webkit-scrollbar-track
+ {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #F5F5F5;
+ }
+ 
+ .scroll-3::-webkit-scrollbar
+ {
+     width: 6px;
+     background-color: #F5F5F5;
+ }
+ 
+ .scroll-3::-webkit-scrollbar-thumb
+ {
+    background-color: #a1a1a1;
+    border-radius: 300px;
+ }
+
+ .sub-menu li a .material-icons {
+    font-size: 18px;
+    float: left;
+    margin-right: 10px;
+ }
+
+
+ .shake {
+    animation: shake 0.82s cubic-bezier(.36, .07, .19, .97) both;
+    animation-iteration-count: 1;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+    perspective: 1000px;
+    display: inline-block;
+  }
+
+  @keyframes shake {
+    10%,
+    90% {
+      transform: translate3d(-1px, 0, 0);
+    }
+    20%,
+    80% {
+      transform: translate3d(2px, 0, 0);
+    }
+    30%,
+    50%,
+    70% {
+      transform: translate3d(-4px, 0, 0);
+    }
+    40%,
+    60% {
+      transform: translate3d(4px, 0, 0);
+    }
+  }
+
+  @media(max-width: 575px) {
+    #logo-front {
+      margin: 0 auto;
+      display: block;
+      width: 100%;
+    }
+  }

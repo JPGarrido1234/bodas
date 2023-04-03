@@ -1,0 +1,1456 @@
+{
+    "countries": [
+        {
+            "name_en": "Afghanistan",
+            "text": "Afganistán",
+            "dial_id": "+93",
+            "id": "AF"
+        },
+        {
+            "name_en": "Albania",
+            "text": "Albania",
+            "dial_id": "+355",
+            "id": "AL"
+        },
+        {
+            "name_en": "Algeria",
+            "text": "Argelia",
+            "dial_id": "+213",
+            "id": "DZ"
+        },
+        {
+            "name_en": "AmericanSamoa",
+            "text": "Samoa Americana",
+            "dial_id": "+1684",
+            "id": "AS"
+        },
+        {
+            "name_en": "Andorra",
+            "text": "Andorra",
+            "dial_id": "+376",
+            "id": "AD"
+        },
+        {
+            "name_en": "Angola",
+            "text": "Angola",
+            "dial_id": "+244",
+            "id": "AO"
+        },
+        {
+            "name_en": "Anguilla",
+            "text": "Anguilla",
+            "dial_id": "+1264",
+            "id": "AI"
+        },
+        {
+            "name_en": "Antarctica",
+            "text": "Antártida",
+            "dial_id": "+672",
+            "id": "AQ"
+        },
+        {
+            "name_en": "Antigua and Barbuda",
+            "text": "Antigua y Barbuda",
+            "dial_id": "+1268",
+            "id": "AG"
+        },
+        {
+            "name_en": "Argentina",
+            "text": "Argentina",
+            "dial_id": "+54",
+            "id": "AR"
+        },
+        {
+            "name_en": "Armenia",
+            "text": "Armenia",
+            "dial_id": "+374",
+            "id": "AM"
+        },
+        {
+            "name_en": "Aruba",
+            "text": "Aruba",
+            "dial_id": "+297",
+            "id": "AW"
+        },
+        {
+            "name_en": "Australia",
+            "text": "Australia",
+            "dial_id": "+61",
+            "id": "AU"
+        },
+        {
+            "name_en": "Austria",
+            "text": "Austria",
+            "dial_id": "+43",
+            "id": "AT"
+        },
+        {
+            "name_en": "Azerbaijan",
+            "text": "Azerbaiyán",
+            "dial_id": "+994",
+            "id": "AZ"
+        },
+        {
+            "name_en": "Bahamas",
+            "text": "Bahamas",
+            "dial_id": "+1242",
+            "id": "BS"
+        },
+        {
+            "name_en": "Bahrain",
+            "text": "Baréin",
+            "dial_id": "+973",
+            "id": "BH"
+        },
+        {
+            "name_en": "Bangladesh",
+            "text": "Banglades",
+            "dial_id": "+880",
+            "id": "BD"
+        },
+        {
+            "name_en": "Barbados",
+            "text": "Barbados",
+            "dial_id": "+1246",
+            "id": "BB"
+        },
+        {
+            "name_en": "Belarus",
+            "text": "Bielorrusia",
+            "dial_id": "+375",
+            "id": "BY"
+        },
+        {
+            "name_en": "Belgium",
+            "text": "Bélgica",
+            "dial_id": "+32",
+            "id": "BE"
+        },
+        {
+            "name_en": "Belize",
+            "text": "Belice",
+            "dial_id": "+501",
+            "id": "BZ"
+        },
+        {
+            "name_en": "Benin",
+            "text": "Benin",
+            "dial_id": "+229",
+            "id": "BJ"
+        },
+        {
+            "name_en": "Bermuda",
+            "text": "Bermudas",
+            "dial_id": "+1441",
+            "id": "BM"
+        },
+        {
+            "name_en": "Bhutan",
+            "text": "Butan",
+            "dial_id": "+975",
+            "id": "BT"
+        },
+        {
+            "name_en": "Bolivia",
+            "text": "Bolivia",
+            "dial_id": "+591",
+            "id": "BO"
+        },
+        {
+            "name_en": "Bosnia and Herzegovina",
+            "text": "Bosnia-Herzegovina",
+            "dial_id": "+387",
+            "id": "BA"
+        },
+        {
+            "name_en": "Botswana",
+            "text": "Botsuana",
+            "dial_id": "+267",
+            "id": "BW"
+        },
+        {
+            "name_en": "Brazil",
+            "text": "Brasil",
+            "dial_id": "+55",
+            "id": "BR"
+        },
+        {
+            "name_en": "British Indian Ocean Territory",
+            "text": "Territorio Británico del Océano Índico",
+            "dial_id": "+246",
+            "id": "IO"
+        },
+        {
+            "name_en": "Brunei Darussalam",
+            "text": "Brunei",
+            "dial_id": "+673",
+            "id": "BN"
+        },
+        {
+            "name_en": "Bulgaria",
+            "text": "Bulgaria",
+            "dial_id": "+359",
+            "id": "BG"
+        },
+        {
+            "name_en": "Burkina Faso",
+            "text": "Burkina Faso",
+            "dial_id": "+226",
+            "id": "BF"
+        },
+        {
+            "name_en": "Burundi",
+            "text": "Burundi",
+            "dial_id": "+257",
+            "id": "BI"
+        },
+        {
+            "name_en": "Cambodia",
+            "text": "Camboya",
+            "dial_id": "+855",
+            "id": "KH"
+        },
+        {
+            "name_en": "Cameroon",
+            "text": "Camerún",
+            "dial_id": "+237",
+            "id": "CM"
+        },
+        {
+            "name_en": "Canada",
+            "text": "Canadá",
+            "dial_id": "+1",
+            "id": "CA"
+        },
+        {
+            "name_en": "Cape Verde",
+            "text": "Cabo Verde",
+            "dial_id": "+238",
+            "id": "CV"
+        },
+        {
+            "name_en": "Cayman Islands",
+            "text": "Islas Caimán",
+            "dial_id": "+ 345",
+            "id": "KY"
+        },
+        {
+            "name_en": "Central African Republic",
+            "text": "República Centroafricana",
+            "dial_id": "+236",
+            "id": "CF"
+        },
+        {
+            "name_en": "Chad",
+            "text": "Chad",
+            "dial_id": "+235",
+            "id": "TD"
+        },
+        {
+            "name_en": "Chile",
+            "text": "Chile",
+            "dial_id": "+56",
+            "id": "CL"
+        },
+        {
+            "name_en": "China",
+            "text": "China",
+            "dial_id": "+86",
+            "id": "CN"
+        },
+        {
+            "name_en": "Christmas Island",
+            "text": "Isla de Navidad",
+            "dial_id": "+61",
+            "id": "CX"
+        },
+        {
+            "name_en": "Cocos (Keeling) Islands",
+            "text": "Islas Cocos",
+            "dial_id": "+61",
+            "id": "CC"
+        },
+        {
+            "name_en": "Colombia",
+            "text": "Colombia",
+            "dial_id": "+57",
+            "id": "CO"
+        },
+        {
+            "name_en": "Comoros",
+            "text": "Comoras",
+            "dial_id": "+269",
+            "id": "KM"
+        },
+        {
+            "name_en": "Congo",
+            "text": "Congo",
+            "dial_id": "+242",
+            "id": "CG"
+        },
+        {
+            "name_en": "Congo, The Democratic Republic of the",
+            "text": "República Democrática del Congo",
+            "dial_id": "+243",
+            "id": "CD"
+        },
+        {
+            "name_en": "Cook Islands",
+            "text": "Islas Cook",
+            "dial_id": "+682",
+            "id": "CK"
+        },
+        {
+            "name_en": "Costa Rica",
+            "text": "Costa Rica",
+            "dial_id": "+506",
+            "id": "CR"
+        },
+        {
+            "name_en": "Cote d'Ivoire",
+            "text": "Costa de Marfil",
+            "dial_id": "+225",
+            "id": "CI"
+        },
+        {
+            "name_en": "Croatia",
+            "text": "Croacia",
+            "dial_id": "+385",
+            "id": "HR"
+        },
+        {
+            "name_en": "Cuba",
+            "text": "Cuba",
+            "dial_id": "+53",
+            "id": "CU"
+        },
+        {
+            "name_en": "Cyprus",
+            "text": "Chipre",
+            "dial_id": "+537",
+            "id": "CY"
+        },
+        {
+            "name_en": "Czechia",
+            "text": "Chequia",
+            "dial_id": "+420",
+            "id": "CZ"
+        },
+        {
+            "name_en": "Denmark",
+            "text": "Dinamarca",
+            "dial_id": "+45",
+            "id": "DK"
+        },
+        {
+            "name_en": "Djibouti",
+            "text": "Yibuti",
+            "dial_id": "+253",
+            "id": "DJ"
+        },
+        {
+            "name_en": "Dominica",
+            "text": "Dominica",
+            "dial_id": "+1767",
+            "id": "DM"
+        },
+        {
+            "name_en": "Dominican Republic",
+            "text": "República Dominicana",
+            "dial_id": "+1849",
+            "id": "DO"
+        },
+        {
+            "name_en": "Ecuador",
+            "text": "Ecuador",
+            "dial_id": "+593",
+            "id": "EC"
+        },
+        {
+            "name_en": "Egypt",
+            "text": "Egipto",
+            "dial_id": "+20",
+            "id": "EG"
+        },
+        {
+            "name_en": "El Salvador",
+            "text": "El Salvador",
+            "dial_id": "+503",
+            "id": "SV"
+        },
+        {
+            "name_en": "Equatorial Guinea",
+            "text": "Guinea Ecuatorial",
+            "dial_id": "+240",
+            "id": "GQ"
+        },
+        {
+            "name_en": "Eritrea",
+            "text": "Eritrea",
+            "dial_id": "+291",
+            "id": "ER"
+        },
+        {
+            "name_en": "Estonia",
+            "text": "Estonia",
+            "dial_id": "+372",
+            "id": "EE"
+        },
+        {
+            "name_en": "Ethiopia",
+            "text": "Etiopía",
+            "dial_id": "+251",
+            "id": "ET"
+        },
+        {
+            "name_en": "Falkland Islands (Malvinas)",
+            "text": "Islas Malvinas",
+            "dial_id": "+500",
+            "id": "FK"
+        },
+        {
+            "name_en": "Faroe Islands",
+            "text": "Islas Feroe",
+            "dial_id": "+298",
+            "id": "FO"
+        },
+        {
+            "name_en": "Fiji",
+            "text": "Fiyi",
+            "dial_id": "+679",
+            "id": "FJ"
+        },
+        {
+            "name_en": "Finland",
+            "text": "Finlandia",
+            "dial_id": "+358",
+            "id": "FI"
+        },
+        {
+            "name_en": "France",
+            "text": "Francia",
+            "dial_id": "+33",
+            "id": "FR"
+        },
+        {
+            "name_en": "French Guiana",
+            "text": "Guayana Francesa",
+            "dial_id": "+594",
+            "id": "GF"
+        },
+        {
+            "name_en": "French Polynesia",
+            "text": "Polinesia Francesa",
+            "dial_id": "+689",
+            "id": "PF"
+        },
+        {
+            "name_en": "Gabon",
+            "text": "Gabón",
+            "dial_id": "+241",
+            "id": "GA"
+        },
+        {
+            "name_en": "Gambia",
+            "text": "Gambia",
+            "dial_id": "+220",
+            "id": "GM"
+        },
+        {
+            "name_en": "Georgia",
+            "text": "Georgia",
+            "dial_id": "+995",
+            "id": "GE"
+        },
+        {
+            "name_en": "Germany",
+            "text": "Alemania",
+            "dial_id": "+49",
+            "id": "DE"
+        },
+        {
+            "name_en": "Ghana",
+            "text": "Ghana",
+            "dial_id": "+233",
+            "id": "GH"
+        },
+        {
+            "name_en": "Gibraltar",
+            "text": "Gibraltar",
+            "dial_id": "+350",
+            "id": "GI"
+        },
+        {
+            "name_en": "Greece",
+            "text": "Grecia",
+            "dial_id": "+30",
+            "id": "GR"
+        },
+        {
+            "name_en": "Greenland",
+            "text": "Groenlandia",
+            "dial_id": "+299",
+            "id": "GL"
+        },
+        {
+            "name_en": "Grenada",
+            "text": "Granada",
+            "dial_id": "+1473",
+            "id": "GD"
+        },
+        {
+            "name_en": "Guadeloupe",
+            "text": "Guadalupe",
+            "dial_id": "+590",
+            "id": "GP"
+        },
+        {
+            "name_en": "Guam",
+            "text": "Guam",
+            "dial_id": "+1671",
+            "id": "GU"
+        },
+        {
+            "name_en": "Guatemala",
+            "text": "Guatemala",
+            "dial_id": "+502",
+            "id": "GT"
+        },
+        {
+            "name_en": "Guernsey",
+            "text": "Guernsey",
+            "dial_id": "+44",
+            "id": "GG"
+        },
+        {
+            "name_en": "Guinea",
+            "text": "Guinea",
+            "dial_id": "+224",
+            "id": "GN"
+        },
+        {
+            "name_en": "Guinea-Bissau",
+            "text": "Guinea-Bisau",
+            "dial_id": "+245",
+            "id": "GW"
+        },
+        {
+            "name_en": "Guyana",
+            "text": "Guyana",
+            "dial_id": "+595",
+            "id": "GY"
+        },
+        {
+            "name_en": "Haiti",
+            "text": "Haití",
+            "dial_id": "+509",
+            "id": "HT"
+        },
+        {
+            "name_en": "Holy See (Vatican City State)",
+            "text": "Ciudad del Vaticano",
+            "dial_id": "+379",
+            "id": "VA"
+        },
+        {
+            "name_en": "Honduras",
+            "text": "Honduras",
+            "dial_id": "+504",
+            "id": "HN"
+        },
+        {
+            "name_en": "Hong Kong",
+            "text": "Hong Kong",
+            "dial_id": "+852",
+            "id": "HK"
+        },
+        {
+            "name_en": "Hungary",
+            "text": "Hungría",
+            "dial_id": "+36",
+            "id": "HU"
+        },
+        {
+            "name_en": "Iceland",
+            "text": "Islandia",
+            "dial_id": "+354",
+            "id": "IS"
+        },
+        {
+            "name_en": "India",
+            "text": "India",
+            "dial_id": "+91",
+            "id": "IN"
+        },
+        {
+            "name_en": "Indonesia",
+            "text": "Indonesia",
+            "dial_id": "+62",
+            "id": "ID"
+        },
+        {
+            "name_en": "Iran, Islamic Republic of",
+            "text": "Irán",
+            "dial_id": "+98",
+            "id": "IR"
+        },
+        {
+            "name_en": "Iraq",
+            "text": "Iraq",
+            "dial_id": "+964",
+            "id": "IQ"
+        },
+        {
+            "name_en": "Ireland",
+            "text": "Irlanda",
+            "dial_id": "+353",
+            "id": "IE"
+        },
+        {
+            "name_en": "Isle of Man",
+            "text": "Isla de Man",
+            "dial_id": "+44",
+            "id": "IM"
+        },
+        {
+            "name_en": "Israel",
+            "text": "Israel",
+            "dial_id": "+972",
+            "id": "IL"
+        },
+        {
+            "name_en": "Italy",
+            "text": "Italia",
+            "dial_id": "+39",
+            "id": "IT"
+        },
+        {
+            "name_en": "Jamaica",
+            "text": "Jamaica",
+            "dial_id": "+1876",
+            "id": "JM"
+        },
+        {
+            "name_en": "Japan",
+            "text": "Japón",
+            "dial_id": "+81",
+            "id": "JP"
+        },
+        {
+            "name_en": "Jersey",
+            "text": "Jersey",
+            "dial_id": "+44",
+            "id": "JE"
+        },
+        {
+            "name_en": "Jordan",
+            "text": "Jordania",
+            "dial_id": "+962",
+            "id": "JO"
+        },
+        {
+            "name_en": "Kazakhstan",
+            "text": "Kazajistán",
+            "dial_id": "+7",
+            "id": "KZ"
+        },
+        {
+            "name_en": "Kenya",
+            "text": "Kenia",
+            "dial_id": "+254",
+            "id": "KE"
+        },
+        {
+            "name_en": "Kiribati",
+            "text": "Kiribati",
+            "dial_id": "+686",
+            "id": "KI"
+        },
+        {
+            "name_en": "Korea, Democratic People's Republic of",
+            "text": "Corea del Norte",
+            "dial_id": "+850",
+            "id": "KP"
+        },
+        {
+            "name_en": "Korea, Republic of",
+            "text": "Corea del Sur",
+            "dial_id": "+82",
+            "id": "KR"
+        },
+        {
+            "name_en": "Kosovo",
+            "text": "Kosovo",
+            "dial_id": "+383",
+            "id": "XK"
+        },
+        {
+            "name_en": "Kuwait",
+            "text": "Kuwait",
+            "dial_id": "+965",
+            "id": "KW"
+        },
+        {
+            "name_en": "Kyrgyzstan",
+            "text": "Kirguistán",
+            "dial_id": "+996",
+            "id": "KG"
+        },
+        {
+            "name_en": "Lao People's Democratic Republic",
+            "text": "Laos",
+            "dial_id": "+856",
+            "id": "LA"
+        },
+        {
+            "name_en": "Latvia",
+            "text": "Letonia",
+            "dial_id": "+371",
+            "id": "LV"
+        },
+        {
+            "name_en": "Lebanon",
+            "text": "Líbano",
+            "dial_id": "+961",
+            "id": "LB"
+        },
+        {
+            "name_en": "Lesotho",
+            "text": "Lesoto",
+            "dial_id": "+266",
+            "id": "LS"
+        },
+        {
+            "name_en": "Liberia",
+            "text": "Liberia",
+            "dial_id": "+231",
+            "id": "LR"
+        },
+        {
+            "name_en": "Libyan Arab Jamahiriya",
+            "text": "Libia",
+            "dial_id": "+218",
+            "id": "LY"
+        },
+        {
+            "name_en": "Liechtenstein",
+            "text": "Liechtenstein",
+            "dial_id": "+423",
+            "id": "LI"
+        },
+        {
+            "name_en": "Lithuania",
+            "text": "Lituania",
+            "dial_id": "+370",
+            "id": "LT"
+        },
+        {
+            "name_en": "Luxembourg",
+            "text": "Luxemburgo",
+            "dial_id": "+352",
+            "id": "LU"
+        },
+        {
+            "name_en": "Macao",
+            "text": "Macao",
+            "dial_id": "+853",
+            "id": "MO"
+        },
+        {
+            "name_en": "Macedonia, The Former Yugoslav Republic of",
+            "text": "República de Macedonia",
+            "dial_id": "+389",
+            "id": "MK"
+        },
+        {
+            "name_en": "Madagascar",
+            "text": "Madagascar",
+            "dial_id": "+261",
+            "id": "MG"
+        },
+        {
+            "name_en": "Malawi",
+            "text": "Malaui",
+            "dial_id": "+265",
+            "id": "MW"
+        },
+        {
+            "name_en": "Malaysia",
+            "text": "Malasia",
+            "dial_id": "+60",
+            "id": "MY"
+        },
+        {
+            "name_en": "Maldives",
+            "text": "Maldivas",
+            "dial_id": "+960",
+            "id": "MV"
+        },
+        {
+            "name_en": "Mali",
+            "text": "Malí",
+            "dial_id": "+223",
+            "id": "ML"
+        },
+        {
+            "name_en": "Malta",
+            "text": "Malta",
+            "dial_id": "+356",
+            "id": "MT"
+        },
+        {
+            "name_en": "Marshall Islands",
+            "text": "Islas Marshall",
+            "dial_id": "+692",
+            "id": "MH"
+        },
+        {
+            "name_en": "Martinique",
+            "text": "Martinica",
+            "dial_id": "+596",
+            "id": "MQ"
+        },
+        {
+            "name_en": "Mauritania",
+            "text": "Mauritania",
+            "dial_id": "+222",
+            "id": "MR"
+        },
+        {
+            "name_en": "Mauritius",
+            "text": "Mauricio",
+            "dial_id": "+230",
+            "id": "MU"
+        },
+        {
+            "name_en": "Mayotte",
+            "text": "Mayotte",
+            "dial_id": "+262",
+            "id": "YT"
+        },
+        {
+            "name_en": "Mexico",
+            "text": "México",
+            "dial_id": "+52",
+            "id": "MX"
+        },
+        {
+            "name_en": "Micronesia, Federated States of",
+            "text": "Estados Federados de Micronesia",
+            "dial_id": "+691",
+            "id": "FM"
+        },
+        {
+            "name_en": "Moldova, Republic of",
+            "text": "Moldavia",
+            "dial_id": "+373",
+            "id": "MD"
+        },
+        {
+            "name_en": "Monaco",
+            "text": "Monaco",
+            "dial_id": "+377",
+            "id": "MC"
+        },
+        {
+            "name_en": "Mongolia",
+            "text": "Mongolia",
+            "dial_id": "+976",
+            "id": "MN"
+        },
+        {
+            "name_en": "Montenegro",
+            "text": "Montenegro",
+            "dial_id": "+382",
+            "id": "ME"
+        },
+        {
+            "name_en": "Montserrat",
+            "text": "Montserrat",
+            "dial_id": "+1664",
+            "id": "MS"
+        },
+        {
+            "name_en": "Morocco",
+            "text": "Marruecos",
+            "dial_id": "+212",
+            "id": "MA"
+        },
+        {
+            "name_en": "Mozambique",
+            "text": "Mozambique",
+            "dial_id": "+258",
+            "id": "MZ"
+        },
+        {
+            "name_en": "Myanmar",
+            "text": "Birmania",
+            "dial_id": "+95",
+            "id": "MM"
+        },
+        {
+            "name_en": "Namibia",
+            "text": "Namibia",
+            "dial_id": "+264",
+            "id": "NA"
+        },
+        {
+            "name_en": "Nauru",
+            "text": "Nauru",
+            "dial_id": "+674",
+            "id": "NR"
+        },
+        {
+            "name_en": "Nepal",
+            "text": "Nepal",
+            "dial_id": "+977",
+            "id": "NP"
+        },
+        {
+            "name_en": "Netherlands",
+            "text": "Holanda",
+            "dial_id": "+31",
+            "id": "NL"
+        },
+        {
+            "name_en": "Netherlands Antilles",
+            "text": "Antillas Holandesas",
+            "dial_id": "+599",
+            "id": "AN"
+        },
+        {
+            "name_en": "New Caledonia",
+            "text": "Nueva Caledonia",
+            "dial_id": "+687",
+            "id": "NC"
+        },
+        {
+            "name_en": "New Zealand",
+            "text": "Nueva Zelanda",
+            "dial_id": "+64",
+            "id": "NZ"
+        },
+        {
+            "name_en": "Nicaragua",
+            "text": "Nicaragua",
+            "dial_id": "+505",
+            "id": "NI"
+        },
+        {
+            "name_en": "Niger",
+            "text": "Niger",
+            "dial_id": "+227",
+            "id": "NE"
+        },
+        {
+            "name_en": "Nigeria",
+            "text": "Nigeria",
+            "dial_id": "+234",
+            "id": "NG"
+        },
+        {
+            "name_en": "Niue",
+            "text": "Niue",
+            "dial_id": "+683",
+            "id": "NU"
+        },
+        {
+            "name_en": "NorfolkIsland",
+            "text": "IslaNorfolk",
+            "dial_id": "+672",
+            "id": "NF"
+        },
+        {
+            "name_en": "NorthernMarianaIslands",
+            "text": "IslasMarianasdelNorte",
+            "dial_id": "+1670",
+            "id": "MP"
+        },
+        {
+            "name_en": "Norway",
+            "text": "Noruega",
+            "dial_id": "+47",
+            "id": "NO"
+        },
+        {
+            "name_en": "Oman",
+            "text": "Omán",
+            "dial_id": "+968",
+            "id": "OM"
+        },
+        {
+            "name_en": "Pakistan",
+            "text": "Pakistán",
+            "dial_id": "+92",
+            "id": "PK"
+        },
+        {
+            "name_en": "Palau",
+            "text": "Palaos",
+            "dial_id": "+680",
+            "id": "PW"
+        },
+        {
+            "name_en": "Panama",
+            "text": "Panamá",
+            "dial_id": "+507",
+            "id": "PA"
+        },
+        {
+            "name_en": "Papua New Guinea",
+            "text": "Papúa Nueva Guinea",
+            "dial_id": "+675",
+            "id": "PG"
+        },
+        {
+            "name_en": "Paraguay",
+            "text": "Paraguay",
+            "dial_id": "+595",
+            "id": "PY"
+        },
+        {
+            "name_en": "Peru",
+            "text": "Perú",
+            "dial_id": "+51",
+            "id": "PE"
+        },
+        {
+            "name_en": "Philippines",
+            "text": "Filipinas",
+            "dial_id": "+63",
+            "id": "PH"
+        },
+        {
+            "name_en": "Pitcairn",
+            "text": "Islas Pitcairn",
+            "dial_id": "+872",
+            "id": "PN"
+        },
+        {
+            "name_en": "Poland",
+            "text": "Polonia",
+            "dial_id": "+48",
+            "id": "PL"
+        },
+        {
+            "name_en": "Portugal",
+            "text": "Portugal",
+            "dial_id": "+351",
+            "id": "PT"
+        },
+        {
+            "name_en": "Puerto Rico",
+            "text": "Puerto Rico",
+            "dial_id": "+1939",
+            "id": "PR"
+        },
+        {
+            "name_en": "Qatar",
+            "text": "Qatar",
+            "dial_id": "+974",
+            "id": "QA"
+        },
+        {
+            "name_en": "Romania",
+            "text": "Rumania",
+            "dial_id": "+40",
+            "id": "RO"
+        },
+        {
+            "name_en": "Russia",
+            "text": "Rusia",
+            "dial_id": "+7",
+            "id": "RU"
+        },
+        {
+            "name_en": "Rwanda",
+            "text": "Ruanda",
+            "dial_id": "+250",
+            "id": "RW"
+        },
+        {
+            "name_en": "Réunion",
+            "text": "Reunion",
+            "dial_id": "+262",
+            "id": "RE"
+        },
+        {
+            "name_en": "Saint Barthélemy",
+            "text": "San Bartolome",
+            "dial_id": "+590",
+            "id": "BL"
+        },
+        {
+            "name_en": "Saint Helena, Ascension and Tristan Da Cunha",
+            "text": "Santa Elena, Ascensión y Tristán de Acuña",
+            "dial_id": "+290",
+            "id": "SH"
+        },
+        {
+            "name_en": "Saint Kitts and Nevis",
+            "text": "San Cristóbal y Nieves",
+            "dial_id": "+1869",
+            "id": "KN"
+        },
+        {
+            "name_en": "Saint Lucia",
+            "text": "Santa Lucía",
+            "dial_id": "+1758",
+            "id": "LC"
+        },
+        {
+            "name_en": "Saint Martin",
+            "text": "Isla de San Martín",
+            "dial_id": "+590",
+            "id": "MF"
+        },
+        {
+            "name_en": "Saint Pierre and Miquelon",
+            "text": "San Pedro y Miquelon",
+            "dial_id": "+508",
+            "id": "PM"
+        },
+        {
+            "name_en": "Saint Vincent and the Grenadines",
+            "text": "San Vicente y las Granadinas",
+            "dial_id": "+1784",
+            "id": "VC"
+        },
+        {
+            "name_en": "Samoa",
+            "text": "Samoa",
+            "dial_id": "+685",
+            "id": "WS"
+        },
+        {
+            "name_en": "San Marino",
+            "text": "San Marino",
+            "dial_id": "+378",
+            "id": "SM"
+        },
+        {
+            "name_en": "Sao Tome and Principe",
+            "text": " Santo Tomé y Príncipe",
+            "dial_id": "+239",
+            "id": "ST"
+        },
+        {
+            "name_en": "Saudi Arabia",
+            "text": "Arabia Saudita",
+            "dial_id": "+966",
+            "id": "SA"
+        },
+        {
+            "name_en": "Senegal",
+            "text": "Senegal",
+            "dial_id": "+221",
+            "id": "SN"
+        },
+        {
+            "name_en": "Serbia",
+            "text": "Serbia",
+            "dial_id": "+381",
+            "id": "RS"
+        },
+        {
+            "name_en": "Seychelles",
+            "text": "Seychelles",
+            "dial_id": "+248",
+            "id": "SC"
+        },
+        {
+            "name_en": "Sierra Leone",
+            "text": "Sierra Leona",
+            "dial_id": "+232",
+            "id": "SL"
+        },
+        {
+            "name_en": "Singapore",
+            "text": "Singapur",
+            "dial_id": "+65",
+            "id": "SG"
+        },
+        {
+            "name_en": "Slovakia",
+            "text": "Eslovaquia",
+            "dial_id": "+421",
+            "id": "SK"
+        },
+        {
+            "name_en": "Slovenia",
+            "text": "Eslovenia",
+            "dial_id": "+386",
+            "id": "SI"
+        },
+        {
+            "name_en": "Solomon Islands",
+            "text": "Islas Salomón",
+            "dial_id": "+677",
+            "id": "SB"
+        },
+        {
+            "name_en": "Somalia",
+            "text": "Somalia",
+            "dial_id": "+252",
+            "id": "SO"
+        },
+        {
+            "name_en": "South Africa",
+            "text": "Sudáfrica",
+            "dial_id": "+27",
+            "id": "ZA"
+        },
+        {
+            "name_en": "South Sudan",
+            "text": "Sudán del Sur",
+            "dial_id": "+211",
+            "id": "SS"
+        },
+        {
+            "name_en": "Spain",
+            "text": "España",
+            "dial_id": "+34",
+            "id": "ES"
+        },
+        {
+            "name_en": "Sri Lanka",
+            "text": "Sri Lanka",
+            "dial_id": "+94",
+            "id": "LK"
+        },
+        {
+            "name_en": "State of Palestine",
+            "text": "Estado de Palestina",
+            "dial_id": "+970",
+            "id": "PS"
+        },
+        {
+            "name_en": "Sudan",
+            "text": "Sudán",
+            "dial_id": "+249",
+            "id": "SD"
+        },
+        {
+            "name_en": "Suriname",
+            "text": "Surinam",
+            "dial_id": "+597",
+            "id": "SR"
+        },
+        {
+            "name_en": "Svalbard and Jan Mayen",
+            "text": "Svalbard y Jan Mayen",
+            "dial_id": "+47",
+            "id": "SJ"
+        },
+        {
+            "name_en": "Swaziland",
+            "text": "Suazilandia",
+            "dial_id": "+268",
+            "id": "SZ"
+        },
+        {
+            "name_en": "Sweden",
+            "text": "Suecia",
+            "dial_id": "+46",
+            "id": "SE"
+        },
+        {
+            "name_en": "Switzerland",
+            "text": "Suiza",
+            "dial_id": "+41",
+            "id": "CH"
+        },
+        {
+            "name_en": "Syrian Arab Republic",
+            "text": "Siria",
+            "dial_id": "+963",
+            "id": "SY"
+        },
+        {
+            "name_en": "Taiwan, Province of China",
+            "text": "Taiwán",
+            "dial_id": "+886",
+            "id": "TW"
+        },
+        {
+            "name_en": "Tayikistan",
+            "text": "Tayikistán",
+            "dial_id": "+992",
+            "id": "TJ"
+        },
+        {
+            "name_en": "Tanzania, United Republic of",
+            "text": "Tanzania",
+            "dial_id": "+255",
+            "id": "TZ"
+        },
+        {
+            "name_en": "Thailand",
+            "text": "Tailandia",
+            "dial_id": "+66",
+            "id": "TH"
+        },
+        {
+            "name_en": "Timor-Leste",
+            "text": "Timor Oriental",
+            "dial_id": "+670",
+            "id": "TL"
+        },
+        {
+            "name_en": "Togo",
+            "text": "Togo",
+            "dial_id": "+228",
+            "id": "TG"
+        },
+        {
+            "name_en": "Tokelau",
+            "text": "Tokelau",
+            "dial_id": "+690",
+            "id": "TK"
+        },
+        {
+            "name_en": "Tonga",
+            "text": "Tonga",
+            "dial_id": "+676",
+            "id": "TO"
+        },
+        {
+            "name_en": "Trinidad and Tobago",
+            "text": "Trinidad y Tobago",
+            "dial_id": "+1868",
+            "id": "TT"
+        },
+        {
+            "name_en": "Tunisia",
+            "text": "Túnez",
+            "dial_id": "+216",
+            "id": "TN"
+        },
+        {
+            "name_en": "Turkey",
+            "text": "Turquía",
+            "dial_id": "+90",
+            "id": "TR"
+        },
+        {
+            "name_en": "Turkmenistan",
+            "text": "Turkmenistán",
+            "dial_id": "+993",
+            "id": "TM"
+        },
+        {
+            "name_en": "Turks and Caicos Islands",
+            "text": "Islas Turcas y Caicos",
+            "dial_id": "+1649",
+            "id": "TC"
+        },
+        {
+            "name_en": "Tuvalu",
+            "text": "Tuvalu",
+            "dial_id": "+688",
+            "id": "TV"
+        },
+        {
+            "name_en": "Uganda",
+            "text": "Uganda",
+            "dial_id": "+256",
+            "id": "UG"
+        },
+        {
+            "name_en": "Ukraine",
+            "text": "Ucrania",
+            "dial_id": "+380",
+            "id": "UA"
+        },
+        {
+            "name_en": "United Arab Emirates",
+            "text": "Emiratos Árabes Unidos",
+            "dial_id": "+971",
+            "id": "AE"
+        },
+        {
+            "name_en": "United Kingdom",
+            "text": "Reino Unido",
+            "dial_id": "+44",
+            "id": "GB"
+        },
+        {
+            "name_en": "United States",
+            "text": "Estados Unidos",
+            "dial_id": "+1",
+            "id": "US"
+        },
+        {
+            "name_en": "Uruguay",
+            "text": "Uruguay",
+            "dial_id": "+598",
+            "id": "UY"
+        },
+        {
+            "name_en": "Uzbekistan",
+            "text": "Uzbekistán",
+            "dial_id": "+998",
+            "id": "UZ"
+        },
+        {
+            "name_en": "Vanuatu",
+            "text": "Vanuatu",
+            "dial_id": "+678",
+            "id": "VU"
+        },
+        {
+            "name_en": "Venezuela, Bolivarian Republic of",
+            "text": "Venezuela",
+            "dial_id": "+58",
+            "id": "VE"
+        },
+        {
+            "name_en": "Vietnam",
+            "text": "Vietnam",
+            "dial_id": "+84",
+            "id": "VN"
+        },
+        {
+            "name_en": "Virgin Islands, British",
+            "text": "Islas Vírgenes Británicas",
+            "dial_id": "+1284",
+            "id": "VG"
+        },
+        {
+            "name_en": "Virgin Islands, U.S.",
+            "text": "Islas Vírgenes de los Estados Unidos",
+            "dial_id": "+1340",
+            "id": "VI"
+        },
+        {
+            "name_en": "Wallis and Futuna",
+            "text": "Wallis y Futuna",
+            "dial_id": "+681",
+            "id": "WF"
+        },
+        {
+            "name_en": "Yemen",
+            "text": "Yemen",
+            "dial_id": "+967",
+            "id": "YE"
+        },
+        {
+            "name_en": "Zambia",
+            "text": "Zambia",
+            "dial_id": "+260",
+            "id": "ZM"
+        },
+        {
+            "name_en": "Zimbabwe",
+            "text": "Zimbabue",
+            "dial_id": "+263",
+            "id": "ZW"
+        },
+        {
+            "name_en": "Åland Islands",
+            "text": "Åland",
+            "dial_id": "+358",
+            "id": "AX"
+        }
+    ]
+}

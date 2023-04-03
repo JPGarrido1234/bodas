@@ -1,0 +1,41 @@
+{
+    "poppins": {
+        "300": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/poppins_300_4a08cccbc2911e3077321a0298f4e093",
+        "normal": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/poppins_normal_442dffd12abdf0df26c14405d3f49bfa",
+        "500": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/poppins_500_6a6f5e017da7e062546fd806ab3b249c",
+        "600": "poppins_600_272b14b77a21dc5827f4570eff556c8f",
+        "bold": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/poppins_bold_2d1c4b360c3ac297e98fc2cfd808a2cc"
+    },
+    "montserrat": {
+        "100": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/montserrat_100_a33175ed70b9f7658ae81c9efa61938d",
+        "300": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/montserrat_300_39b1972e72c43f1f0e368a33cc82c0ce",
+        "normal": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/montserrat_normal_b74b751c20b429298921949795391ef1",
+        "500": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/montserrat_500_a34ab50d0b60a015b62e11133b0bf05b",
+        "600": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/montserrat_600_54346339d706ca965bcbed499d2795db",
+        "bold": "montserrat_bold_4b7576218464d90344a2d2769cab2f75",
+        "800": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/montserrat_800_65b23b6af673d3e826e93ac9d76d4ee3"
+    },
+    "material icons": {
+        "normal": "material_icons_normal_068f47cc203bdcfe98c32348c776f16d"
+    },
+    "font awesome 6 brands": {
+        "normal": "font_awesome_6_brands_normal_fe9f8889de14dac4e5423b59c7c9c4d7"
+    },
+    "font awesome 6 free": {
+        "normal": "font_awesome_6_free_normal_63ceaa3a26a25d15acc67a2a92a86505",
+        "900": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/font_awesome_6_free_900_e28be8b0559d1fb8cc4e17872df29e2a"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_fe9f8889de14dac4e5423b59c7c9c4d7"
+    },
+    "font awesome 5 free": {
+        "900": "font_awesome_5_free_900_e28be8b0559d1fb8cc4e17872df29e2a",
+        "normal": "C:\\Users\\Scrabbz\\Desktop\\bodas\\storage\\fonts\/font_awesome_5_free_normal_63ceaa3a26a25d15acc67a2a92a86505"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_06860fa9961d464ff5b77a2ec3345004"
+    },
+    "nunito": {
+        "normal": "nunito_normal_586f3f8a461df5c8635a870033365d5e"
+    }
+}

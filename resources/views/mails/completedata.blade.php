@@ -1,0 +1,2 @@
+Completa los datos de tu boda con nombre {{ $boda->name }}, teléfono {{ $boda->tel }} y en fecha {{ $boda->year }}. <br><br>
+<a href="{{ route('admin.bodas.completar', ['token' => $boda->token]) }}">Completar datos restantes</a>
